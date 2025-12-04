@@ -63,9 +63,6 @@ The data was cleaned, validated, and prepared before dashboard development.
 
 ---
 
-## 🤖 Machine Learning Extension (Optional)
-This project can be extended using ML models:
-
 ### **Crop Recommendation Model**
 Predicts the ideal crop based on soil, climate, and nutrient inputs.
 
@@ -77,7 +74,6 @@ Predicts the best fertilizer based on crop and nutrient levels.
 ## 🛠 Tech Stack
 - **Power BI** – Data modeling, visuals, dashboard design  
 - **Excel / CSV** – Data cleaning and preparation  
-- **Python** (optional for ML extensions)  
 - **GitHub** – Documentation and version control  
 
 ---
